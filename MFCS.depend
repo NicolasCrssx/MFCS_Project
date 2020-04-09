@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1586448360 source:c:\users\nicol\documents\efrei\s4\c++\mfcs\main.cpp
+	<iostream>
+	<fstream>
+	"automaton.h"
+
+1586449569 source:c:\users\nicol\documents\efrei\s4\c++\mfcs\getanddisplay.cpp
+	<iostream>
+	<fstream>
+	"automaton.h"
+
+1586448094 c:\users\nicol\documents\efrei\s4\c++\mfcs\automaton.h
+	<fstream>
+
+1586449481 source:c:\users\nicol\documents\efrei\s4\c++\mfcs\functions.cpp
+	"automaton.h"
+	<iostream>
+	<windows.h>
+
